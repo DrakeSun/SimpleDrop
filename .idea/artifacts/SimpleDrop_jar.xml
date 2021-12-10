@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimpleDrop:jar">
+    <output-path>$USER_HOME$/OneDrive/Pulpit/Aplikacje i inne gówna/Bukkity i inne ścierwa/SERVERS/server 1.17.1 spigot/plugins</output-path>
+    <root id="archive" name="SimpleDrop.jar">
+      <element id="module-output" name="SimpleDrop.main" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/users.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/drops.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/config.yml" />
+    </root>
+  </artifact>
+</component>

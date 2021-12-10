@@ -1,0 +1,12 @@
+guis:
+  drops:
+    name: "&7Drop z kamienia"
+    lore-for-each-drop:
+      - "Szansa na wypadniecie:"
+      - "Fortune 0/1/2/3 -> %chance0%/%chance1%/%chance2%/%chance3%"
+      - "Minimalna ilosc wypadanych przedmiotow:"
+      - "Fortune 0/1/2/3 -> %minAmount0%/%minAmount1%/%minAmount2%/%minAmount3%"
+      - "Maksymalna ilosc wypadanych przedmiotow:"
+      - "Fortune 0/1/2/3 -> %maxAmount0%/%maxAmount1%/%maxAmount2%/%maxAmount3%"
+      - "Wymagany kilof -> %minPickaxe%"
+      - "Aktywny -> %active%"

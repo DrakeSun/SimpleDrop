@@ -1,0 +1,47 @@
+diamond:
+  material: DIAMOND
+  drop-message: "&aDROP | &7Dropnales %amount% &b&ldiamenty"
+  name-in-gui: "&b&lDiament"
+  min-pickaxe: DIAMOND_PICKAXE
+  drop-info:
+    bonus-drop: 0.5
+    fortune0:
+      min-amount: 1
+      max-amount: 1
+      chance: 0.05
+    fortune1:
+      min-amount: 1
+      max-amount: 2
+      chance: 10
+    fortune2:
+      min-amount: 2
+      max-amount: 3
+      chance: 20
+    fortune3:
+      min-amount: 3
+      max-amount: 4
+      chance: 100
+iron:
+  material: IRON_INGOT
+  drop-message: "&aDROP | &7Dropnales %amount% &b&lzelaza"
+  name-in-gui: "&b&lIron"
+  min-pickaxe: IRON_PICKAXE
+  drop-info:
+    bonus-drop: 0.5
+    fortune0:
+      min-amount: 1
+      max-amount: 1
+      chance: 0.05
+    fortune1:
+      min-amount: 1
+      max-amount: 2
+      chance: 10
+    fortune2:
+      min-amount: 2
+      max-amount: 3
+      chance: 20
+    fortune3:
+      min-amount: 3
+      max-amount: 4
+      chance: 100
+
